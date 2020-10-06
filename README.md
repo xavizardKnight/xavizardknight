@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hello, I'm Xavizard Knight
+
+I'm a programmer in my free time (not so good but trying to improve).
+Right now I use my GitLab account to host my projects (but I don't have any at the time):
+https://gitlab.com/XavizardKnight
+
+Even that, I'm still using this GitHub account to interact with other projects.
 
 <!--
 **xavizardKnight/xavizardknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
