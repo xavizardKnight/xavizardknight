@@ -4,7 +4,7 @@ I'm a programmer in my free time (not so good but trying to improve). Learning C
 
 I use my GitLab account for my private repos (and some publics ones), but I still use this GitHub account to interact with other projects.
 
-<a>My GitLab account</a>
+<a href="https://gitlab.com/XavizardKnight">My GitLab account</a>
 
 <!--<img src="readme/gitlab-icon-rgb.png" alt="Game Jolt black badge" width="100" href="https://gitlab.com/XavizardKnight"/>-->
 
