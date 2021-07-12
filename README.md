@@ -17,8 +17,8 @@ Here's a list (or a table should I say) of my public repos:
 			<center>
 				<b>sps</b>
 				<br><i>(Comming soon)</i>
-				<!--<br><a href="https://gitlab.com/XavizardKnight/unofficial-gj-badge"><img src="readme/gitlab-icon-rgb.png" alt="Game Jolt black badge" href="https://gitlab.com/XavizardKnight/unofficial-gj-badge" width="50"/></a>
-				<a href="https://gitlab.com/XavizardKnight/unofficial-gj-badge"><img src="readme/cs.png" alt="Game Jolt black badge" href="https://gitlab.com/XavizardKnight/unofficial-gj-badge" width="50"/></a>-->
+				<br><!--<a href="https://gitlab.com/XavizardKnight/unofficial-gj-badge">--><!--<img src="readme/gitlab-icon-rgb.png" width="25"/></a>
+				<img src="readme/cs.png" alt="Game Jolt black badge" width="25"/>-->
 			</center>
 		</td>
 		<td>
@@ -33,7 +33,8 @@ Here's a list (or a table should I say) of my public repos:
 		<td>
 			<center>
 				<b>unofficial-gj-badge</b>
-				<br><a href="https://gitlab.com/XavizardKnight/unofficial-gj-badge"><img src="readme/gitlab-icon-rgb.png" alt="Game Jolt black badge" href="https://gitlab.com/XavizardKnight/unofficial-gj-badge" width="50"/></a>
+				<br><a href="https://gitlab.com/XavizardKnight/unofficial-gj-badge"><img src="readme/gitlab-icon-rgb.png" alt="Game Jolt black badge" href="https://gitlab.com/XavizardKnight/unofficial-gj-badge" width="25"/></a>
+				<img src="readme/svg.png" alt="W3C SVG Logo" width="25"/>
 			</center>
 		</td>
 		<td>
