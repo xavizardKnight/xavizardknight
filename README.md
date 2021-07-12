@@ -12,7 +12,7 @@ I use my GitLab account for my private repos (and some publics ones), but I stil
 Here's a list (or a table should I say) of my public repos:
 <table>
 	<tr>
-		<td><img src="repos/sps/sps_SquareLogo.png" alt="sps logo (blurry lol)" width="150"/></td>
+		<td><img src="repos/sps/sps_SquareLogoBig.png" alt="sps logo (blurry lol)" width="150"/></td>
 		<td>
 			<center>
 				<b>sps</b>
