@@ -1,5 +1,8 @@
 👋 Hello, I'm Xavizard Knight
 
+![](https://komarev.com/ghpvc/?username=xavizardKnight&color=orange&label=Profile+views&style=for-the-badge)
+
+
 I'm a programmer in my free time (not so good but trying to improve). Learning C# for Unity3D, AvaloniaUI, Terminal.Gui and for C# CLI aplications.
 
 I use my GitLab account for my private repos (and some publics ones), but I still use this GitHub account to interact with other projects.
